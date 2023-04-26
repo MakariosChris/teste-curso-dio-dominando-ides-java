@@ -62,9 +62,4 @@ public class Gato {
 		return "Gato [nome=" + nome + ", cor=" + cor + ", Idade=" + Idade + "]";
 	}
 
-	/*
-	 * public Gato(String nome, String cor, Integer idade) { this.nome= nome;
-	 * this.cor = cor; this.Idade = idade; }
-	 */
-
 }
